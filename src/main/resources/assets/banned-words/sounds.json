@@ -1,0 +1,9 @@
+{
+  "da_dog": {
+    "sounds": [
+      "banned-words:da-dog"
+    ],
+    "volume": 1.0,
+    "pitch": 1.0
+  }
+}

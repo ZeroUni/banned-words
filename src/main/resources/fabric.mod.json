@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "banned-words",
+	"version": "${version}",
+	"name": "banned words",
+	"description": "Explode when you say naughty words",
+	"authors": [
+		"ZeroUni"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/banned-words/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+		"zerouni.bannedwords.BannedWords"
+		],
+		"client": [
+		"zerouni.bannedwords.BannedWordsClient"
+		],
+		"server": [
+		"zerouni.bannedwords.BannedWordsServer"
+		]
+	},
+	"mixins": [
+		"banned-words.mixins.json",
+		{
+			"config": "banned-words.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

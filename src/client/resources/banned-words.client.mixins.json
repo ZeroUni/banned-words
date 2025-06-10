@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "zerouni.bannedwords.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"refmap": "client-banned-words-refmap.json",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
