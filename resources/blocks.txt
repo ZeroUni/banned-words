@@ -1,0 +1,992 @@
+the nether; explode
+flint and steel; explode
+lava chicken; explode
+slime cube; explode
+chicken jockey; explode
+i am steve; explode
+the villagers; explode
+first we mine; explode
+then we craft; explode
+let's minecraft; explode
+i yearned for the mines; explode
+i think he's swedish; explode
+vaya con dios; explode
+do you have little knife; explode
+Acacia Button; explode
+Acacia Door; explode
+Acacia Fence; explode
+Acacia Fence Gate; explode
+Acacia Hanging Sign; explode
+Acacia Leaves; explode
+Acacia Log; explode
+Acacia Planks; explode
+Acacia Pressure Plate; explode
+Acacia Sapling; explode
+Acacia Sign; explode
+Acacia Slab; explode
+Acacia Stairs; explode
+Acacia Trapdoor; explode
+Acacia Wood; explode
+Activator Rail; explode
+Allium; explode
+Amethyst Cluster; explode
+Ancient Debris; explode
+Andesite; explode
+Andesite Slab; explode
+Andesite Stairs; explode
+Andesite Wall; explode
+Anvil; explode
+Azalea; explode
+Azalea Leaves; explode
+Azure Bluet; explode
+Bamboo; explode
+Bamboo Button; explode
+Bamboo Door; explode
+Bamboo Fence; explode
+Bamboo Fence Gate; explode
+Bamboo Hanging Sign; explode
+Bamboo Mosaic; explode
+Bamboo Mosaic Slab; explode
+Bamboo Mosaic Stairs; explode
+Bamboo Planks; explode
+Bamboo Pressure Plate; explode
+Bamboo Shoot; explode
+Bamboo Sign; explode
+Bamboo Slab; explode
+Bamboo Stairs; explode
+Bamboo Trapdoor; explode
+Barrel; explode
+Barrier; explode
+Basalt; explode
+Beacon; explode
+Bedrock; explode
+Bee Nest; explode
+Beehive; explode
+Beetroots; explode
+Bell; explode
+Big Dripleaf; explode
+Birch Button; explode
+Birch Door; explode
+Birch Fence; explode
+Birch Fence Gate; explode
+Birch Hanging Sign; explode
+Birch Leaves; explode
+Birch Log; explode
+Birch Planks; explode
+Birch Pressure Plate; explode
+Birch Sapling; explode
+Birch Sign; explode
+Birch Slab; explode
+Birch Stairs; explode
+Birch Trapdoor; explode
+Birch Wood; explode
+Black Banner; explode
+Black Bed; explode
+Black Candle; explode
+Black Carpet; explode
+Black Concrete; explode
+Black Concrete Powder; explode
+Black Glazed Terracotta; explode
+Black Shulker Box; explode
+Black Stained Glass; explode
+Black Stained Glass Pane; explode
+Black Terracotta; explode
+Black Wool; explode
+Blackstone; explode
+Blackstone Slab; explode
+Blackstone Stairs; explode
+Blackstone Wall; explode
+Blast Furnace; explode
+Block of Amethyst; explode
+Block of Bamboo; explode
+Block of Coal; explode
+Block of Copper; explode
+Block of Diamond; explode
+Block of Emerald; explode
+Block of Gold; explode
+Block of Iron; explode
+Block of Lapis Lazuli; explode
+Block of Netherite; explode
+Block of Quartz; explode
+Block of Raw Copper; explode
+Block of Raw Gold; explode
+Block of Raw Iron; explode
+Block of Redstone; explode
+Block of Resin; explode
+Block of Stripped Bamboo; explode
+Blue Banner; explode
+Blue Bed; explode
+Blue Candle; explode
+Blue Carpet; explode
+Blue Concrete; explode
+Blue Concrete Powder; explode
+Blue Glazed Terracotta; explode
+Blue Ice; explode
+Blue Orchid; explode
+Blue Shulker Box; explode
+Blue Stained Glass; explode
+Blue Stained Glass Pane; explode
+Blue Terracotta; explode
+Blue Wool; explode
+Bone Block; explode
+Bookshelf; explode
+Brain Coral; explode
+Brain Coral Block; explode
+Brain Coral Fan; explode
+Brewing Stand; explode
+Brick Slab; explode
+Brick Stairs; explode
+Brick Wall; explode
+Bricks; explode
+Brown Banner; explode
+Brown Bed; explode
+Brown Candle; explode
+Brown Carpet; explode
+Brown Concrete; explode
+Brown Concrete Powder; explode
+Brown Glazed Terracotta; explode
+Brown Mushroom; explode
+Brown Mushroom Block; explode
+Brown Shulker Box; explode
+Brown Stained Glass; explode
+Brown Stained Glass Pane; explode
+Brown Terracotta; explode
+Brown Wool; explode
+Bubble Column; explode
+Bubble Coral; explode
+Bubble Coral Block; explode
+Bubble Coral Fan; explode
+Budding Amethyst; explode
+Bush; explode
+Cactus; explode
+Cactus Flower; explode
+Cake; explode
+Calcite; explode
+Calibrated Sculk Sensor; explode
+Campfire; explode
+Candle; explode
+Carrots; explode
+Cartography Table; explode
+Carved Pumpkin; explode
+Cauldron; explode
+Cave Vines; explode
+Chain; explode
+Chain Command Block; explode
+Chest; explode
+Cherry Button; explode
+Cherry Door; explode
+Cherry Fence; explode
+Cherry Fence Gate; explode
+Cherry Hanging Sign; explode
+Cherry Leaves; explode
+Cherry Log; explode
+Cherry Planks; explode
+Cherry Pressure Plate; explode
+Cherry Sapling; explode
+Cherry Sign; explode
+Cherry Slab; explode
+Cherry Stairs; explode
+Cherry Trapdoor; explode
+Cherry Wood; explode
+Chipped Anvil; explode
+Chiseled Bookshelf; explode
+Chiseled Copper; explode
+Chiseled Deepslate; explode
+Chiseled Nether Bricks; explode
+Chiseled Polished Blackstone; explode
+Chiseled Quartz Block; explode
+Chiseled Red Sandstone; explode
+Chiseled Resin Bricks; explode
+Chiseled Sandstone; explode
+Chiseled Stone Bricks; explode
+Chiseled Tuff; explode
+Chiseled Tuff Bricks; explode
+Chorus Flower; explode
+Chorus Plant; explode
+Clay; explode
+Closed Eyeblossom; explode
+Coal Ore; explode
+Coarse Dirt; explode
+Cobbled Deepslate; explode
+Cobbled Deepslate Slab; explode
+Cobbled Deepslate Stairs; explode
+Cobbled Deepslate Wall; explode
+Cobblestone; explode
+Cobblestone Slab; explode
+Cobblestone Stairs; explode
+Cobblestone Wall; explode
+Cobweb; explode
+Cocoa; explode
+Command Block; explode
+Composter; explode
+Conduit; explode
+Copper Bulb; explode
+Copper Door; explode
+Copper Grate; explode
+Copper Ore; explode
+Copper Trapdoor; explode
+Cornflower; explode
+Cracked Deepslate Bricks; explode
+Cracked Deepslate Tiles; explode
+Cracked Nether Bricks; explode
+Cracked Polished Blackstone Bricks; explode
+Cracked Stone Bricks; explode
+Crafter; explode
+Crafting Table; explode
+Creaking Heart; explode
+Creeper Head; explode
+Crimson Button; explode
+Crimson Door; explode
+Crimson Fence; explode
+Crimson Fence Gate; explode
+Crimson Fungus; explode
+Crimson Hanging Sign; explode
+Crimson Hyphae; explode
+Crimson Nylium; explode
+Crimson Planks; explode
+Crimson Pressure Plate; explode
+Crimson Roots; explode
+Crimson Sign; explode
+Crimson Slab; explode
+Crimson Stairs; explode
+Crimson Stem; explode
+Crimson Trapdoor; explode
+Crying Obsidian; explode
+Cut Copper; explode
+Cut Copper Slab; explode
+Cut Copper Stairs; explode
+Cut Red Sandstone; explode
+Cut Red Sandstone Slab; explode
+Cut Sandstone; explode
+Cut Sandstone Slab; explode
+Cyan Banner; explode
+Cyan Bed; explode
+Cyan Candle; explode
+Cyan Carpet; explode
+Cyan Concrete; explode
+Cyan Concrete Powder; explode
+Cyan Glazed Terracotta; explode
+Cyan Shulker Box; explode
+Cyan Stained Glass; explode
+Cyan Stained Glass Pane; explode
+Cyan Terracotta; explode
+Cyan Wool; explode
+Damaged Anvil; explode
+Dandelion; explode
+Dark Oak Button; explode
+Dark Oak Door; explode
+Dark Oak Fence; explode
+Dark Oak Fence Gate; explode
+Dark Oak Hanging Sign; explode
+Dark Oak Leaves; explode
+Dark Oak Log; explode
+Dark Oak Planks; explode
+Dark Oak Pressure Plate; explode
+Dark Oak Sapling; explode
+Dark Oak Sign; explode
+Dark Oak Slab; explode
+Dark Oak Stairs; explode
+Dark Oak Trapdoor; explode
+Dark Oak Wood; explode
+Dark Prismarine; explode
+Dark Prismarine Slab; explode
+Dark Prismarine Stairs; explode
+Daylight Detector; explode
+Dead Brain Coral; explode
+Dead Brain Coral Block; explode
+Dead Brain Coral Fan; explode
+Dead Bubble Coral; explode
+Dead Bubble Coral Block; explode
+Dead Bubble Coral Fan; explode
+Dead Bush; explode
+Dead Fire Coral; explode
+Dead Fire Coral Block; explode
+Dead Fire Coral Fan; explode
+Dead Horn Coral; explode
+Dead Horn Coral Block; explode
+Dead Horn Coral Fan; explode
+Dead Tube Coral; explode
+Dead Tube Coral Block; explode
+Dead Tube Coral Fan; explode
+Decorated Pot; explode
+Deepslate; explode
+Deepslate Bricks; explode
+Deepslate Brick Slab; explode
+Deepslate Brick Stairs; explode
+Deepslate Brick Wall; explode
+Deepslate Coal Ore; explode
+Deepslate Copper Ore; explode
+Deepslate Diamond Ore; explode
+Deepslate Emerald Ore; explode
+Deepslate Gold Ore; explode
+Deepslate Iron Ore; explode
+Deepslate Lapis Lazuli Ore; explode
+Deepslate Redstone Ore; explode
+Deepslate Tiles; explode
+Deepslate Tile Slab; explode
+Deepslate Tile Stairs; explode
+Deepslate Tile Wall; explode
+Detector Rail; explode
+Diamond Ore; explode
+Diorite; explode
+Diorite Slab; explode
+Diorite Stairs; explode
+Diorite Wall; explode
+Dirt; explode
+Dirt Path; explode
+Dispenser; explode
+Dragon Egg; explode
+Dragon Head; explode
+Dried Kelp Block; explode
+Dripstone Block; explode
+Dropper; explode
+Emerald Ore; explode
+Enchanting Table; explode
+End Gateway; explode
+End Portal; explode
+End Portal Frame; explode
+End Rod; explode
+End Stone; explode
+End Stone Brick Slab; explode
+End Stone Brick Stairs; explode
+End Stone Brick Wall; explode
+End Stone Bricks; explode
+Ender Chest; explode
+Exposed Chiseled Copper; explode
+Exposed Copper; explode
+Exposed Copper Bulb; explode
+Exposed Copper Door; explode
+Exposed Copper Grate; explode
+Exposed Copper Trapdoor; explode
+Exposed Cut Copper; explode
+Exposed Cut Copper Slab; explode
+Exposed Cut Copper Stairs; explode
+Farmland; explode
+Fern; explode
+Fire; explode
+Fire Coral; explode
+Fire Coral Block; explode
+Fire Coral Fan; explode
+Firefly Bush; explode
+Fletching Table; explode
+Flower Pot; explode
+Flowering Azalea; explode
+Flowering Azalea Leaves; explode
+Frogspawn; explode
+Frosted Ice; explode
+Furnace; explode
+Gilded Blackstone; explode
+Glass; explode
+Glass Pane; explode
+Glow Item Frame (As a block)‌[BE only]; explode
+Glow Lichen; explode
+Glowstone; explode
+Gold Ore; explode
+Granite; explode
+Granite Slab; explode
+Granite Stairs; explode
+Granite Wall; explode
+Grass Block; explode
+Gravel; explode
+Gray Banner; explode
+Gray Bed; explode
+Gray Candle; explode
+Gray Carpet; explode
+Gray Concrete; explode
+Gray Concrete Powder; explode
+Gray Glazed Terracotta; explode
+Gray Shulker Box; explode
+Gray Stained Glass; explode
+Gray Stained Glass Pane; explode
+Gray Terracotta; explode
+Gray Wool; explode
+Green Banner; explode
+Green Bed; explode
+Green Candle; explode
+Green Carpet; explode
+Green Concrete; explode
+Green Concrete Powder; explode
+Green Glazed Terracotta; explode
+Green Shulker Box; explode
+Green Stained Glass; explode
+Green Stained Glass Pane; explode
+Green Terracotta; explode
+Green Wool; explode
+Grindstone; explode
+Hanging Roots; explode
+Hay Bale; explode
+Heavy Core; explode
+Heavy Weighted Pressure Plate; explode
+Honey Block; explode
+Honeycomb Block; explode
+Hopper; explode
+Horn Coral; explode
+Horn Coral Block; explode
+Horn Coral Fan; explode
+Ice; explode
+Infested Chiseled Stone Bricks; explode
+Infested Cobblestone; explode
+Infested Cracked Stone Bricks; explode
+Infested Deepslate; explode
+Infested Mossy Stone Bricks; explode
+Infested Stone; explode
+Infested Stone Bricks; explode
+Item Frame; explode
+Iron Bars; explode
+Iron Door; explode
+Iron Ore; explode
+Iron Trapdoor; explode
+Jack o'Lantern; explode
+Jigsaw Block; explode
+Jukebox; explode
+Jungle Button; explode
+Jungle Door; explode
+Jungle Fence; explode
+Jungle Fence Gate; explode
+Jungle Hanging Sign; explode
+Jungle Leaves; explode
+Jungle Log; explode
+Jungle Planks; explode
+Jungle Pressure Plate; explode
+Jungle Sapling; explode
+Jungle Sign; explode
+Jungle Slab; explode
+Jungle Stairs; explode
+Jungle Trapdoor; explode
+Jungle Wood; explode
+Kelp; explode
+Ladder; explode
+Lantern; explode
+Lapis Lazuli Ore; explode
+Large Amethyst Bud; explode
+Large Fern; explode
+Lava; explode
+Lectern; explode
+Leaf Litter; explode
+Lever; explode
+Light; explode
+Light Blue Banner; explode
+Light Blue Bed; explode
+Light Blue Candle; explode
+Light Blue Carpet; explode
+Light Blue Concrete; explode
+Light Blue Concrete Powder; explode
+Light Blue Glazed Terracotta; explode
+Light Blue Shulker Box; explode
+Light Blue Stained Glass; explode
+Light Blue Stained Glass Pane; explode
+Light Blue Terracotta; explode
+Light Blue Wool; explode
+Light Gray Banner; explode
+Light Gray Bed; explode
+Light Gray Candle; explode
+Light Gray Carpet; explode
+Light Gray Concrete; explode
+Light Gray Concrete Powder; explode
+Light Gray Glazed Terracotta; explode
+Light Gray Shulker Box; explode
+Light Gray Stained Glass; explode
+Light Gray Stained Glass Pane; explode
+Light Gray Terracotta; explode
+Light Gray Wool; explode
+Light Weighted Pressure Plate; explode
+Lightning Rod; explode
+Lilac; explode
+Lily of the Valley; explode
+Lily Pad; explode
+Lime Banner; explode
+Lime Bed; explode
+Lime Candle; explode
+Lime Carpet; explode
+Lime Concrete; explode
+Lime Concrete Powder; explode
+Lime Glazed Terracotta; explode
+Lime Shulker Box; explode
+Lime Stained Glass; explode
+Lime Stained Glass Pane; explode
+Lime Terracotta; explode
+Lime Wool; explode
+Lodestone; explode
+Loom; explode
+Magenta Banner; explode
+Magenta Bed; explode
+Magenta Candle; explode
+Magenta Carpet; explode
+Magenta Concrete; explode
+Magenta Concrete Powder; explode
+Magenta Glazed Terracotta; explode
+Magenta Shulker Box; explode
+Magenta Stained Glass; explode
+Magenta Stained Glass Pane; explode
+Magenta Terracotta; explode
+Magenta Wool; explode
+Magma Block; explode
+Mangrove Button; explode
+Mangrove Door; explode
+Mangrove Fence; explode
+Mangrove Fence Gate; explode
+Mangrove Hanging Sign; explode
+Mangrove Leaves; explode
+Mangrove Log; explode
+Mangrove Pressure Plate; explode
+Mangrove Propagule; explode
+Mangrove Planks; explode
+Mangrove Roots; explode
+Mangrove Sign; explode
+Mangrove Slab; explode
+Mangrove Stairs; explode
+Mangrove Trapdoor; explode
+Mangrove Wood; explode
+Medium Amethyst Bud; explode
+Melon; explode
+Melon Stem; explode
+Monster Spawner; explode
+Moss Block; explode
+Moss Carpet; explode
+Mossy Cobblestone; explode
+Mossy Cobblestone Slab; explode
+Mossy Cobblestone Stairs; explode
+Mossy Cobblestone Wall; explode
+Mossy Stone Brick Slab; explode
+Mossy Stone Brick Stairs; explode
+Mossy Stone Brick Wall; explode
+Mossy Stone Bricks; explode
+Mud; explode
+Mud Brick Slab; explode
+Mud Brick Stairs; explode
+Mud Brick Wall; explode
+Mud Bricks; explode
+Muddy Mangrove Roots; explode
+Mushroom Stem; explode
+Mycelium; explode
+Nether Brick Fence; explode
+Nether Brick Slab; explode
+Nether Brick Stairs; explode
+Nether Brick Wall; explode
+Nether Bricks; explode
+Nether Gold Ore; explode
+Nether Portal; explode
+Nether Quartz Ore; explode
+Nether Sprouts; explode
+Nether Wart; explode
+Nether Wart Block; explode
+Netherrack; explode
+Note Block; explode
+Oak Button; explode
+Oak Door; explode
+Oak Fence; explode
+Oak Fence Gate; explode
+Oak Hanging Sign; explode
+Oak Leaves; explode
+Oak Log; explode
+Oak Planks; explode
+Oak Pressure Plate; explode
+Oak Sapling; explode
+Oak Sign; explode
+Oak Slab; explode
+Oak Stairs; explode
+Oak Trapdoor; explode
+Oak Wood; explode
+Observer; explode
+Obsidian; explode
+Ochre Froglight; explode
+Ominous Banner; explode
+Open Eyeblossom; explode
+Orange Banner; explode
+Orange Bed; explode
+Orange Candle; explode
+Orange Carpet; explode
+Orange Concrete; explode
+Orange Concrete Powder; explode
+Orange Glazed Terracotta; explode
+Orange Shulker Box; explode
+Orange Stained Glass; explode
+Orange Stained Glass Pane; explode
+Orange Terracotta; explode
+Orange Tulip; explode
+Orange Wool; explode
+Oxeye Daisy; explode
+Oxidized Chiseled Copper; explode
+Oxidized Copper; explode
+Oxidized Copper Bulb; explode
+Oxidized Copper Door; explode
+Oxidized Copper Grate; explode
+Oxidized Copper Trapdoor; explode
+Oxidized Cut Copper; explode
+Oxidized Cut Copper Slab; explode
+Oxidized Cut Copper Stairs; explode
+Packed Ice; explode
+Packed Mud; explode
+Pale Hanging Moss; explode
+Pale Moss Block; explode
+Pale Moss Carpet; explode
+Pale Oak Button; explode
+Pale Oak Door; explode
+Pale Oak Fence; explode
+Pale Oak Fence Gate; explode
+Pale Oak Hanging Sign; explode
+Pale Oak Leaves; explode
+Pale Oak Planks; explode
+Pale Oak Pressure Plate; explode
+Pale Oak Log; explode
+Pale Oak Sapling; explode
+Pale Oak Sign; explode
+Pale Oak Slab; explode
+Pale Oak Stairs; explode
+Pale Oak Trapdoor; explode
+Pale Oak Wood; explode
+Pearlescent Froglight; explode
+Peony; explode
+Petrified Oak Slab; explode
+Piglin Head; explode
+Pink Banner; explode
+Pink Bed; explode
+Pink Candle; explode
+Pink Carpet; explode
+Pink Concrete; explode
+Pink Concrete Powder; explode
+Pink Petals; explode
+Pink Glazed Terracotta; explode
+Pink Shulker Box; explode
+Pink Stained Glass; explode
+Pink Stained Glass Pane; explode
+Pink Terracotta; explode
+Pink Tulip; explode
+Pink Wool; explode
+Pitcher Crop; explode
+Pitcher Plant; explode
+Piston; explode
+Player Head; explode
+Podzol; explode
+Pointed Dripstone; explode
+Polished Andesite; explode
+Polished Andesite Slab; explode
+Polished Andesite Stairs; explode
+Polished Basalt; explode
+Polished Blackstone; explode
+Polished Blackstone Brick Slab; explode
+Polished Blackstone Brick Stairs; explode
+Polished Blackstone Brick Wall; explode
+Polished Blackstone Bricks; explode
+Polished Blackstone Button; explode
+Polished Blackstone Pressure Plate; explode
+Polished Blackstone Slab; explode
+Polished Blackstone Stairs; explode
+Polished Blackstone Wall; explode
+Polished Diorite; explode
+Polished Diorite Slab; explode
+Polished Diorite Stairs; explode
+Polished Granite; explode
+Polished Granite Slab; explode
+Polished Granite Stairs; explode
+Polished Deepslate; explode
+Polished Deepslate Slab; explode
+Polished Deepslate Stairs; explode
+Polished Deepslate Wall; explode
+Polished Tuff; explode
+Polished Tuff Slab; explode
+Polished Tuff Stairs; explode
+Polished Tuff Wall; explode
+Poppy; explode
+Potatoes; explode
+Powder Snow; explode
+Powered Rail; explode
+Prismarine; explode
+Prismarine Brick Slab; explode
+Prismarine Brick Stairs; explode
+Prismarine Bricks; explode
+Prismarine Slab; explode
+Prismarine Stairs; explode
+Prismarine Wall; explode
+Pumpkin; explode
+Pumpkin Stem; explode
+Purple Banner; explode
+Purple Bed; explode
+Purple Candle; explode
+Purple Carpet; explode
+Purple Concrete; explode
+Purple Concrete Powder; explode
+Purple Glazed Terracotta; explode
+Purple Shulker Box; explode
+Purple Stained Glass; explode
+Purple Stained Glass Pane; explode
+Purple Terracotta; explode
+Purple Wool; explode
+Purpur Block; explode
+Purpur Pillar; explode
+Purpur Slab; explode
+Purpur Stairs; explode
+Quartz Bricks; explode
+Quartz Pillar; explode
+Quartz Slab; explode
+Quartz Stairs; explode
+Rail; explode
+Red Banner; explode
+Red Bed; explode
+Red Candle; explode
+Red Carpet; explode
+Red Concrete; explode
+Red Concrete Powder; explode
+Red Glazed Terracotta; explode
+Red Mushroom; explode
+Red Mushroom Block; explode
+Red Nether Brick Slab; explode
+Red Nether Brick Stairs; explode
+Red Nether Brick Wall; explode
+Red Nether Bricks; explode
+Red Sand; explode
+Red Sandstone; explode
+Red Sandstone Slab; explode
+Red Sandstone Stairs; explode
+Red Sandstone Wall; explode
+Red Shulker Box; explode
+Red Stained Glass; explode
+Red Stained Glass Pane; explode
+Red Terracotta; explode
+Red Tulip; explode
+Red Wool; explode
+Redstone Comparator; explode
+Redstone Lamp; explode
+Redstone Ore; explode
+Redstone Repeater; explode
+Redstone Torch; explode
+Redstone Wire; explode
+Reinforced Deepslate; explode
+Repeating Command Block; explode
+Respawn Anchor; explode
+Resin Bricks; explode
+Resin Brick Slab; explode
+Resin Brick Stairs; explode
+Resin Brick Wall; explode
+Resin Clump; explode
+Rooted Dirt; explode
+Rose Bush; explode
+Sand; explode
+Sandstone; explode
+Sandstone Slab; explode
+Sandstone Stairs; explode
+Sandstone Wall; explode
+Scaffolding; explode
+Sculk; explode
+Sculk Catalyst; explode
+Sculk Sensor; explode
+Sculk Shrieker; explode
+Sculk Vein; explode
+Sea Lantern; explode
+Sea Pickle; explode
+Seagrass; explode
+Short Dry Grass; explode
+Short Grass; explode
+Shroomlight; explode
+Shulker Box; explode
+Skeleton Skull; explode
+Slime Block; explode
+Small Amethyst Bud; explode
+Small Dripleaf; explode
+Smithing Table; explode
+Smoker; explode
+Smooth Basalt; explode
+Smooth Quartz Block; explode
+Smooth Quartz Slab; explode
+Smooth Quartz Stairs; explode
+Smooth Red Sandstone; explode
+Smooth Red Sandstone Slab; explode
+Smooth Red Sandstone Stairs; explode
+Smooth Sandstone; explode
+Smooth Sandstone Slab; explode
+Smooth Sandstone Stairs; explode
+Smooth Stone; explode
+Smooth Stone Slab; explode
+Sniffer Egg; explode
+Snow; explode
+Snow Block; explode
+Soul Campfire; explode
+Soul Fire; explode
+Soul Lantern; explode
+Soul Sand; explode
+Soul Soil; explode
+Soul Torch; explode
+Sponge; explode
+Spore Blossom; explode
+Spruce Button; explode
+Spruce Door; explode
+Spruce Fence; explode
+Spruce Fence Gate; explode
+Spruce Hanging Sign; explode
+Spruce Leaves; explode
+Spruce Log; explode
+Spruce Planks; explode
+Spruce Pressure Plate; explode
+Spruce Sapling; explode
+Spruce Sign; explode
+Spruce Slab; explode
+Spruce Stairs; explode
+Spruce Trapdoor; explode
+Spruce Wood; explode
+Sticky Piston; explode
+Stone; explode
+Stone Brick Slab; explode
+Stone Brick Stairs; explode
+Stone Brick Wall; explode
+Stone Bricks; explode
+Stone Button; explode
+Stone Pressure Plate; explode
+Stone Slab; explode
+Stone Stairs; explode
+Stonecutter; explode
+Stripped Acacia Log; explode
+Stripped Acacia Wood; explode
+Stripped Birch Log; explode
+Stripped Birch Wood; explode
+Stripped Cherry Log; explode
+Stripped Cherry Wood; explode
+Stripped Crimson Hyphae; explode
+Stripped Crimson Stem; explode
+Stripped Dark Oak Log; explode
+Stripped Dark Oak Wood; explode
+Stripped Jungle Log; explode
+Stripped Jungle Wood; explode
+Stripped Mangrove Log; explode
+Stripped Mangrove Wood; explode
+Stripped Oak Log; explode
+Stripped Oak Wood; explode
+Stripped Pale Oak Log; explode
+Stripped Pale Oak Wood; explode
+Stripped Spruce Log; explode
+Stripped Spruce Wood; explode
+Stripped Warped Hyphae; explode
+Stripped Warped Stem; explode
+Structure Block; explode
+Structure Void; explode
+Sugar Cane; explode
+Sunflower; explode
+Suspicious Gravel; explode
+Suspicious Sand; explode
+Sweet Berry Bush; explode
+Tall Dry Grass; explode
+Tall Grass; explode
+Tall Seagrass; explode
+Target; explode
+Terracotta; explode
+Test Block; explode
+Test Instance Block; explode
+Tinted Glass; explode
+TNT; explode
+Torch; explode
+Torchflower; explode
+Torchflower Crop; explode
+Trapped Chest; explode
+Trial Spawner; explode
+Tripwire; explode
+Tripwire Hook; explode
+Tube Coral; explode
+Tube Coral Block; explode
+Tube Coral Fan; explode
+Tuff; explode
+Tuff Brick Slab; explode
+Tuff Brick Stairs; explode
+Tuff Brick Wall; explode
+Tuff Bricks; explode
+Tuff Slab; explode
+Tuff Stairs; explode
+Tuff Wall; explode
+Turtle Egg; explode
+Twisting Vines; explode
+Vault; explode
+Verdant Froglight; explode
+Vines; explode
+Warped Button; explode
+Warped Door; explode
+Warped Fence; explode
+Warped Fence Gate; explode
+Warped Fungus; explode
+Warped Hanging Sign; explode
+Warped Hyphae; explode
+Warped Nylium; explode
+Warped Planks; explode
+Warped Pressure Plate; explode
+Warped Roots; explode
+Warped Sign; explode
+Warped Slab; explode
+Warped Stairs; explode
+Warped Stem; explode
+Warped Trapdoor; explode
+Warped Wart Block; explode
+Water; explode
+Waxed Block of Copper; explode
+Waxed Chiseled Copper; explode
+Waxed Copper Bulb; explode
+Waxed Copper Door; explode
+Waxed Copper Grate; explode
+Waxed Copper Trapdoor; explode
+Waxed Cut Copper; explode
+Waxed Cut Copper Slab; explode
+Waxed Cut Copper Stairs; explode
+Waxed Exposed Chiseled Copper; explode
+Waxed Exposed Copper; explode
+Waxed Exposed Copper Bulb; explode
+Waxed Exposed Copper Door; explode
+Waxed Exposed Copper Grate; explode
+Waxed Exposed Copper Trapdoor; explode
+Waxed Exposed Cut Copper; explode
+Waxed Exposed Cut Copper Slab; explode
+Waxed Exposed Cut Copper Stairs; explode
+Waxed Oxidized Chiseled Copper; explode
+Waxed Oxidized Copper; explode
+Waxed Oxidized Copper Bulb; explode
+Waxed Oxidized Copper Door; explode
+Waxed Oxidized Copper Grate; explode
+Waxed Oxidized Copper Trapdoor; explode
+Waxed Oxidized Cut Copper; explode
+Waxed Oxidized Cut Copper Slab; explode
+Waxed Oxidized Cut Copper Stairs; explode
+Waxed Weathered Chiseled Copper; explode
+Waxed Weathered Copper; explode
+Waxed Weathered Copper Bulb; explode
+Waxed Weathered Copper Door; explode
+Waxed Weathered Copper Grate; explode
+Waxed Weathered Copper Trapdoor; explode
+Waxed Weathered Cut Copper; explode
+Waxed Weathered Cut Copper Slab; explode
+Waxed Weathered Cut Copper Stairs; explode
+Weathered Chiseled Copper; explode
+Weathered Copper; explode
+Weathered Copper Bulb; explode
+Weathered Copper Door; explode
+Weathered Copper Grate; explode
+Weathered Copper Trapdoor; explode
+Weathered Cut Copper; explode
+Weathered Cut Copper Slab; explode
+Weathered Cut Copper Stairs; explode
+Weeping Vines; explode
+Wet Sponge; explode
+Wheat Crops; explode
+White Banner; explode
+White Bed; explode
+White Candle; explode
+White Carpet; explode
+White Concrete; explode
+White Concrete Powder; explode
+White Glazed Terracotta; explode
+White Shulker Box; explode
+White Stained Glass; explode
+White Stained Glass Pane; explode
+White Terracotta; explode
+White Tulip; explode
+White Wool; explode
+Wildflowers; explode
+Wither Rose; explode
+Wither Skeleton Skull; explode
+Yellow Banner; explode
+Yellow Bed; explode
+Yellow Candle; explode
+Yellow Carpet; explode
+Yellow Concrete; explode
+Yellow Concrete Powder; explode
+Yellow Glazed Terracotta; explode
+Yellow Shulker Box; explode
+Yellow Stained Glass; explode
+Yellow Stained Glass Pane; explode
+Yellow Terracotta; explode
+Yellow Wool; explode
+Zombie Head; explode

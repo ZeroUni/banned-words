@@ -16,10 +16,10 @@ public class NativeLibraryExtractor {
     private static final Path NATIVES_DIR = FabricLoader.getInstance().getGameDir().resolve("banned-words-natives");
     private static final List<String> NATIVE_LIBRARIES = Arrays.asList(
         "ggml.dll",
-        "ggml-cpu.dll",
-        "ggml-base.dll",
+        // "ggml-cpu.dll",
+        // "ggml-base.dll",
         "whisper.dll",
-        "whisper-jni_full.dll",
+        // "whisper-jni_full.dll",
         "whisper-jni.dll"
     );    private static boolean initialized = false;
     

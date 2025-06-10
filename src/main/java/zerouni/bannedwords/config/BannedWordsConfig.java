@@ -4,14 +4,16 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import zerouni.bannedwords.BannedWords;
 import net.fabricmc.loader.api.FabricLoader;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import zerouni.bannedwords.util.GitHubFileDownloader;
 
 /**
  * Manages the configuration for the BannedWords mod.
@@ -20,51 +22,41 @@ import java.util.Map;
 public class BannedWordsConfig {
     private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
     private static final Path CONFIG_FILE = FabricLoader.getInstance().getConfigDir().resolve(BannedWords.MOD_ID + ".json");
+    private static final Path CONFIG_DIR = FabricLoader.getInstance().getConfigDir().resolve(BannedWords.MOD_ID);
+    private static final String BANNED_WORDS_FILENAME = "blocks.txt";
+    private static final String GITHUB_RAW_URL = "https://raw.githubusercontent.com/ZeroUni/banned-words/main/resources/blocks.txt";
 
-    // Configurable fields with default values
-    private List<String> bannedWords = Arrays.asList("crafting table",
-        "the nether",
-        "flint and steel",
-        "lava chicken",
-        "slime cube",
-        "chicken jockey",
-        "i am steve",
-        "the villagers",
-        "first we mine",
-        "then we craft",
-        "let's minecraft",
-        "i yearned for the mines",
-        "i think he's swedish",
-        "vaya con dios",
-        "do you have little knife");
+
+    private List<String> bannedWords = new ArrayList<>();
     private int gracePeriodSeconds = 5;
-    private float explosionPower = 4.0f; // Default Minecraft TNT explosion power    
+    private float explosionPower = 4.0f;
+
     private List<String> audioClipIds = Arrays.asList("da_dog");
-    // Map of sound ID to its duration in milliseconds. Must match sounds.json and actual audio files.
+
     private Map<String, Long> audioClipDurationsMillis = new HashMap<>() {{
-        put("da_dog", 2000L); // Adjust this to match your actual audio file duration
+        put("da_dog", 2000L);
     }};    private String whisperModelPath = FabricLoader.getInstance().getGameDir().resolve("ggml-small.en-q8_0.bin").toString();
-    private String whisperLanguage = "en"; // Default Whisper language
-    private int whisperThreads = Math.max(1, Runtime.getRuntime().availableProcessors() / 2); // Use half of available cores
-    private String logLevel = "INFO"; // Default logging level
+    private String whisperLanguage = "en";
+    private int whisperThreads = Math.max(1, Runtime.getRuntime().availableProcessors() / 2);
+    private String logLevel = "INFO";
     
     // Whisper performance optimization settings
-    private int whisperAudioCtx = 0; // Audio context window (0 = auto)
-    private int whisperTextCtx = 512; // Reduced text context for faster processing
-    private float whisperTemperature = 0.0f; // Temperature for decoding (0.0 = greedy, fastest)
-    private int whisperBeamSize = 1; // Beam search size (1 = greedy, fastest)
-    private float whisperNoSpeechThreshold = 0.3f; // Lower threshold for faster processing
+    private int whisperAudioCtx = 0;
+    private int whisperTextCtx = 512;
+    private float whisperTemperature = 0.0f;
+    private int whisperBeamSize = 1;
+    private float whisperNoSpeechThreshold = 0.3f;
     
     // VAD specific parameters
-    private int audioProcessingFrameSizeMillis = 20; // Size of each audio frame for VAD analysis
-    private int minSpeechDurationMillis = 300; // Minimum duration of continuous speech to consider it an utterance
-    private double speechDetectionThreshold = 0.005; // RMS energy threshold (0.0-1.0) for speech detection
-    private int silenceTimeoutMillis = 500; // Max silence duration after speech to end an utterance
+    private int audioProcessingFrameSizeMillis = 20;
+    private int minSpeechDurationMillis = 300;
+    private double speechDetectionThreshold = 0.005;
+    private int silenceTimeoutMillis = 500;
     
     // Continuous detection mode parameters (alternative to VAD)
-    private boolean enableContinuousDetection = false; // Enable continuous detection instead of VAD
-    private int continuousSegmentDurationMillis = 2000; // Duration of each continuous segment in milliseconds
-    private int continuousSegmentOverlapMillis = 500; // Overlap between segments in milliseconds
+    private boolean enableContinuousDetection = false;
+    private int continuousSegmentDurationMillis = 2000;
+    private int continuousSegmentOverlapMillis = 500;
 
     /**
      * Loads the configuration from the mod's config file.
@@ -72,28 +64,34 @@ public class BannedWordsConfig {
      * @return The loaded or default BannedWordsConfig instance.
      */
     public static BannedWordsConfig load() {
+        BannedWordsConfig config;
         if (!CONFIG_FILE.toFile().exists()) {
             BannedWords.LOGGER.info("Config file not found, creating default config at {}", CONFIG_FILE);
-            BannedWordsConfig defaultConfig = new BannedWordsConfig();
-            defaultConfig.save();
-            return defaultConfig;
+            config = new BannedWordsConfig();
+            config.loadBannedWordsFromFile();
+            config.save();
+            return config;
         }
-
-        try (FileReader reader = new FileReader(CONFIG_FILE.toFile())) {
-            BannedWordsConfig config = GSON.fromJson(reader, BannedWordsConfig.class);
+        try (java.io.FileReader reader = new java.io.FileReader(CONFIG_FILE.toFile())) {
+            config = GSON.fromJson(reader, BannedWordsConfig.class);
             if (config == null) {
-                // Fallback to default if config file is empty or malformed
                 BannedWords.LOGGER.warn("Config file was empty or malformed, loading default config.");
                 config = new BannedWordsConfig();
-                config.save(); // Save defaults for next time
+                config.loadBannedWordsFromFile();
+                config.save();
+                return config;
             }
             BannedWords.LOGGER.info("Config loaded successfully from {}", CONFIG_FILE);
-            return config;
         } catch (IOException e) {
             BannedWords.LOGGER.error("Failed to load config from {}: {}", CONFIG_FILE, e.getMessage());
             BannedWords.LOGGER.info("Using default config.");
-            return new BannedWordsConfig(); // Return default on error
+            config = new BannedWordsConfig();
+            config.loadBannedWordsFromFile();
+            return config;
         }
+
+        config.loadBannedWordsFromFile();
+        return config;
     }
 
     /**
@@ -274,5 +272,37 @@ public class BannedWordsConfig {
      */
     public String getLogLevel() {
         return logLevel;
+    }
+
+    /**
+     * Loads banned word patterns from the blocks.txt file in the config directory.
+     * Downloads the file from GitHub if it's missing locally.
+     */
+    private void loadBannedWordsFromFile() {
+        try {
+
+            Files.createDirectories(CONFIG_DIR);
+            Path filePath = CONFIG_DIR.resolve(BANNED_WORDS_FILENAME);
+            if (!GitHubFileDownloader.ensureFileExists(GITHUB_RAW_URL, filePath)) {
+                BannedWords.LOGGER.error("Failed to ensure banned words file exists at {}", filePath);
+                return;
+            }
+            List<String> lines = Files.readAllLines(filePath);
+            this.bannedWords = new ArrayList<>();
+            for (String rawLine : lines) {
+                String line = rawLine.trim();
+                if (line.isEmpty() || line.startsWith("#")) {
+                    continue;
+                }
+                String pattern = line;
+                if (line.contains(";")) {
+                    pattern = line.split(";", 2)[0].trim();
+                }
+                this.bannedWords.add(pattern);
+                BannedWords.LOGGER.debug("Loaded banned pattern: {}", pattern);
+            }
+        } catch (IOException e) {
+            BannedWords.LOGGER.error("Error loading banned words file: {}", e.getMessage());
+        }
     }
 }
